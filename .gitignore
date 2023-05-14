@@ -1,0 +1,6 @@
+.env
+web/static/imgs/*
+web/uploads/*
+.DS_Store
+*.json
+web/__pycache__/*
